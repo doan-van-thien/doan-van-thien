@@ -38,10 +38,10 @@
 
 ## 📊 Programming Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doan-van-thien&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
 
 ## 📈 GitHub Stats:
 
-![Thiên's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Thiên's GitHub stats](https://github-readme-stats.vercel.app/api?username=doan-van-thien&show_icons=true&theme=tokyonight)
